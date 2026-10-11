@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Oct 11 15:48:31 2026
 
-@author: Ananthika
-"""
 
 from scapy.all import sniff, IP, TCP, UDP, ICMP
 
